@@ -45,7 +45,6 @@ module.exports = {
     '@typescript-eslint/indent': [2, 2],
     '@typescript-eslint/explicit-function-return-type': 0,
     '@typescript-eslint/prefer-interface': 0,
-    '@typescript-eslint/indent': 0,
     '@typescript-eslint/no-use-before-define': 0,
     '@typescript-eslint/no-unused-expressions': 2,
     'react-hooks/exhaustive-deps': 'warn',
